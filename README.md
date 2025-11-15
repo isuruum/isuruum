@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isuruum
-- 👀 I’m interested in programming and photography
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning in CS
 
 <!---
