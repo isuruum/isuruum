@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isuruum
+- 👋 Hi, I’m @isuruum--
 <h1 alighn="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/isuruum.png" alt="Your Image Badge" />
 </h1>  
