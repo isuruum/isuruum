@@ -6,7 +6,14 @@
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,python,js,php,bash,html,css,nodejs,flask,tailwind,bootstrap,mysql,git,graphql,aws,vscode,xd,wordpress,debian,kali,ubuntu,azure" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=cs,java,python,js,php,git,github,html,css,nodejs,flask,tailwind,bootstrap,mysql,git,aws,vscode,visualstudio,debian,kali,ubuntu,azure" alt="My Skills" />
+  </a>
+</p>
+
+<h4 align="left">OT</h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=xd,ps,ae,pr,au,ai" alt="My Skills" />
   </a>
 </p>
 
