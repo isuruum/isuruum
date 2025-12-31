@@ -2,7 +2,7 @@
 <h1 alighn="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/isuruum.png" alt="Your Image Badge" />
 </h1>  
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=isuruum&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
