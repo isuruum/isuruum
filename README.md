@@ -1,4 +1,8 @@
 - 👋 Hi, I’m @isuruum--
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/isuruum)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isuruMadurapperuma)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@isuruum) 
 <h1 alighn="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/isuruum.png?v=2" alt="Your Image Badge" />
 </h1>  
